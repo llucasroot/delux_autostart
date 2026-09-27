@@ -1,7 +1,6 @@
-# delux_autostart
-A simple script to automatically start the DELUX Gaming Driver minimized on Windows logon using Task Scheduler.
 # DELUX Driver Autostart
 
+A simple script to automatically start the DELUX Gaming Driver minimized on Windows logon using Task Scheduler.
 By default, the DELUX Gaming Driver might not always start automatically with Windows, or it might open an annoying window every time you boot your PC. 
 
 This repository provides a quick, automated solution. It includes a simple Batch script that creates a Windows Scheduled Task to **automatically launch the DELUX driver completely minimized (in the system tray)** every time you log in.
